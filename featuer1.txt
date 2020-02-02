@@ -1,1 +1,1 @@
-去掉Master分支的功能，增加feature1的功能
+去掉Master分支的功能，增加feature1的功能(feature1分支做了此功能)
